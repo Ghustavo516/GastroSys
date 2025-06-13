@@ -4,20 +4,6 @@ Projeto destinado a demonstrar nossas habilidades técnicas em desenvolvimento d
 
 ---
 
-## 📦 Clone do Projeto
-
-Para baixar o projeto:
-
-1. Crie uma conta no GitLab: [https://about.gitlab.com](https://about.gitlab.com)
-2. Em seguida, com suas credenciais em mãos, execute os seguintes comandos no terminal:
-
-```bash
-git config --system --unset credential.helper
-git clone https://gitlab.com/flaviojfreitas/pos-restaurante.git
-```
-
----
-
 ## 📝 Descrição do Projeto
 
 Este projeto foi desenvolvido durante a primeira fase do curso de pós-graduação da FIAP. O objetivo é criar um sistema para gerenciamento de restaurante utilizando as tecnologias abordadas em aula, com foco em boas práticas, arquitetura limpa e automação de ambiente.
