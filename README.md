@@ -58,7 +58,7 @@ docker compose down -v
 
 ## 🛠️ Tecnologias Utilizadas
 
-* Java 17
+* Java 21
 * Spring Boot
 * MySQL
 * Docker
